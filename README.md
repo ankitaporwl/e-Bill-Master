@@ -43,3 +43,5 @@ Database for this Electricity Billing System contains 4 Tables
 ->Tax Table(MeterLocation,MeterType,PhaseCode,BillType,Days,MeterRent,MCB_Rent,ServiceRent,GST)
 
 Java communicates with MySQL tables using JDBC which stands for Java Database Connectivity.
+![Screenshot 2024-08-05 012100](https://github.com/user-attachments/assets/c5f3428d-40c5-4c4a-ac70-f8a29faefde7)
+
