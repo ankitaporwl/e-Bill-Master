@@ -47,7 +47,7 @@ Java communicates with MySQL tables using JDBC which stands for Java Database Co
 
 login credentials- 
 user name- Ankita , 
-password - Aaryan
+password - aaryan
 
 https://github.com/user-attachments/assets/63b5e128-bfbe-49a4-aaf0-ebaee8163a13
 
